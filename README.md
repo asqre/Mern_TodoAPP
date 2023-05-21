@@ -7,7 +7,7 @@ Hi! My name is Amit Anand
 
 
 Env Variables
-Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+Make Sure to Create a config.env file in backend/db directory and add appropriate variables in order to use the app.
 
 Essential Variables 
 PORT= 
