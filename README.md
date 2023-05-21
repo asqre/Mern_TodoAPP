@@ -1,6 +1,6 @@
 # Mern_TodoAPP
 
-##Personalize Todo
+## Personalize Todo
 Hi! My name is Amit Anand
 
 
